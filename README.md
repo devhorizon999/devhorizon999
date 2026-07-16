@@ -160,17 +160,3 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhorizon999&layout=compact&theme=radical"/>
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devhorizon999&theme=radical&row=1&no-frame=true"/>
-</p>
-
----
-
-# 📫 Contact
-
-- 💼 GitHub: https://github.com/devhorizon999  
-- 📧 Email: your@email.com
