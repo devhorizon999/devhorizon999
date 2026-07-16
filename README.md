@@ -149,14 +149,6 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devhorizon999&show_icons=true&theme=radical&cache_seconds=1800"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=devhorizon999&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhorizon999&layout=compact&theme=radical"/>
 </p>
 
