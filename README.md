@@ -24,12 +24,12 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
       <img src="https://skillicons.dev/icons?i=python" height="30"/>
       <br>Python
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="30"/>
       <br>PyTorch
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="30"/>
       <br>TensorFlow
     </td>
   </tr>
@@ -41,36 +41,36 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=react" height="30"/>
       <br>React
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="30"/>
       <br>Next.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=vue" height="30"/>
       <br>Vue
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" height="30"/>
       <br>Nuxt.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=angular" height="30"/>
       <br>Angular
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30"/>
       <br>Tailwind
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=materialui" height="30"/>
       <br>MaterialUI
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=threejs" height="30"/>
       <br>Three.js
     </td>
   </tr>
@@ -82,28 +82,28 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
       <br>Node.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=express" height="30"/>
       <br>Express
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=nestjs" height="30"/>
       <br>NestJS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=django" height="30"/>
       <br>Django
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=php" height="30"/>
       <br>PHP
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=laravel" height="30"/>
       <br>Laravel
     </td>
   </tr>
