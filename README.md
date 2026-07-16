@@ -115,7 +115,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>🗄 Databases</h4>
+<h3>🗄 Databases</h3>
 
 <table>
   <tr>
@@ -144,7 +144,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>📊 GitHub Stats</h4>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=devhorizon999&theme=radical"/>
