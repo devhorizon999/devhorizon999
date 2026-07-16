@@ -7,7 +7,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>👨‍💻 About Me</h4>
+<h3>👨‍💻 About Me</h3>
 
 - 💬 Ask me about **Full Stack Development, AI, and Cybersecurity**
 - 🚀 Focused on building **scalable web applications**
@@ -16,7 +16,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>🤖 AI / Machine Learning</h4>
+<h3>🤖 AI / Machine Learning</h3>
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>🌐 Frontend Development</h4>
+<h3>🌐 Frontend Development</h3>
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 ---
 
-<h4>⚙️ Backend Development</h4>
+<h3>⚙️ Backend Development</h3>
 
 <table>
   <tr>
