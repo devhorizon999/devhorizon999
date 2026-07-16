@@ -1,5 +1,5 @@
 <h2>Hi 👋 Everyone</h2>
-<h4>Full Stack Developer | AI Engineer</h4>
+<h3>Full Stack Developer | AI Engineer</h3>
 
 <p>
 I build scalable web applications, AI-powered tools, and modern SaaS platforms.
@@ -20,8 +20,8 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=python" height="30"/>
       <br>Python
     </td>
     <td align="center" width="90">
@@ -60,10 +60,6 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" height="40"/>
       <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" height="40"/>
-      <br>Svelte
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
