@@ -115,24 +115,24 @@ I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
       <br>MongoDB
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
       <br>MySQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
       <br>PostgreSQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30"/>
       <br>Firebase
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=supabase" height="30"/>
       <br>Supabase
     </td>
   </tr>
