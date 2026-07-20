@@ -1,6 +1,4 @@
 <h2>Hi 👋 Everyone</h2>
-<h3>Full Stack Developer | AI Engineer</h3>
-
 <p>
 I build scalable web applications, AI-powered tools, and modern SaaS platforms.
 </p>
